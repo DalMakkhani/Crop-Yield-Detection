@@ -4,4 +4,4 @@ Jupyter File shows the analysis of dataset mentioned and an approprite regressio
 
 Updates to come: 
   1) An app to give a GUI to above programme.
-  2) A use of more complez dataset. 
+  2) A use of more complex dataset. 
